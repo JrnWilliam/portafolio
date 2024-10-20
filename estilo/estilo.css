@@ -33,12 +33,25 @@ html
     padding: 15px 20px;
 }
 
-.contenedor-header header .logo a
+/* .contenedor-header header .logo a
 {
     font-family: 'Righteous';
     font-size: 36px;
     color: #1CB698;
     text-decoration: none;
+} */
+
+.contenedor-header header .logo
+{
+    text-align: center;
+    margin-top: 5px;
+}
+
+.logotipo
+{
+    width: 90px;
+    height: auto;
+    max-width: 80%;
 }
 
 .contenedor-header header ul
