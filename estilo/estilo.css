@@ -7,3 +7,18 @@
     margin: 0;
     padding: 0;
 }
+
+html
+{
+    scroll-behavior: smooth;
+}
+
+.contenedor-header
+{
+    background: #1E2326;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 99;
+}
