@@ -475,3 +475,75 @@ html
     0%{width: 0%;}
     100%{width: 80%;}    
 }
+
+.skills .skill .comunicacion
+{
+    width: 0%;
+    animation: 2s comunicacion forwards;
+}
+
+@keyframes comunicacion
+{
+    0%{width: 0%;}
+    100%{width: 80%;}
+}
+
+.skills .skill .resolucion
+{
+    width: 0%;
+    animation: 2s resolucion forwards;
+}
+
+@keyframes resolucion
+{
+    0%{width: 0%;}
+    100%{width: 70%;}
+}
+
+.skills .skill .equipo
+{
+    width: 0%;
+    animation: 2s equipo forwards;
+}
+
+@keyframes equipo
+{
+    0%{width: 0%;}
+    100%{width: 90%;}
+}
+
+.skills .skill .analitico
+{
+    width: 0%;
+    animation: 2s analitico forwards;
+}
+
+@keyframes analitico
+{
+    0%{width: 0%;}
+    100%{width: 80%;}
+}
+
+.skills .skill .adaptabilidad
+{
+    width: 0%;
+    animation: 2s adaptabilidad forwards;
+}
+
+@keyframes adaptabilidad
+{
+    0%{width: 0%;}
+    100%{width: 70%;}
+}
+
+.skills .skill .aprendizaje
+{
+    width: 0%;
+    animation: 2s aprendizaje forwards;
+}
+
+@keyframes aprendizaje
+{
+    0%{width: 0%;}
+    100%{width: 80%;}
+}
